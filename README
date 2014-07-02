@@ -1,0 +1,53 @@
+NAME
+    Complete::BashGen - Generate bash completion scripts
+
+VERSION
+    This document describes version 0.00 of Complete::BashGen (from Perl
+    distribution Complete-BashGen), released on 2014-07-02.
+
+DESCRIPTION
+    NOT YET IMPLEMENTED.
+
+    First of all, read Complete::Bash. This module provides an alternative
+    to that module. Instead of having your Perl program called by bash as an
+    external command every time user presses Tab, you use Perl to *generate*
+    bash "complete" scripts for you.
+
+SEE ALSO
+    Complete
+
+    Complete::Bash
+
+    Other CPAN modules doing the same: Term::Bash::Completion::Generator.
+
+    Other CPAN modules for bash completion: Bash::Completion,
+    Getopt::Complete.
+
+    Programmable Completion section in Bash manual:
+    <https://www.gnu.org/software/bash/manual/html_node/Programmable-Complet
+    ion.html>
+
+HOMEPAGE
+    Please visit the project's homepage at
+    <https://metacpan.org/release/Complete-BashGen>.
+
+SOURCE
+    Source repository is at
+    <https://github.com/sharyanto/perl-Complete-BashGen>.
+
+BUGS
+    Please report any bugs or feature requests on the bugtracker website
+    <https://rt.cpan.org/Public/Dist/Display.html?Name=Complete-BashGen>
+
+    When submitting a bug or request, please include a test-file or a patch
+    to an existing test-file that illustrates the bug or desired feature.
+
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2014 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
